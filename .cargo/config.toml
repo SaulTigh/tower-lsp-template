@@ -1,2 +1,3 @@
 [alias]
 lint = "clippy --workspace --all-targets -- --deny warnings"
+i = "install --path . --debug"
